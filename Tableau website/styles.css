@@ -1,0 +1,26 @@
+.upleft{
+    top:45px;
+    left: 50px;
+}
+
+.upright{
+    top: 45px;
+    right: 50px;
+}
+
+.downleft{
+    bottom: 450px;
+    left: 500px;
+}
+
+.downright{
+    bottom: 450px;
+    right: 500;
+}
+
+.footer{
+    bottom:50px
+}
+.header{
+    top:50px
+}

@@ -1,0 +1,31 @@
+.scn{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    margin-top: 10 px;
+}
+
+.scn-title{
+    font-size: 15px;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+
+.scn-subtitle{
+    font-weight: 300;
+    color: blue
+}
+
+.education{
+    font-family:cursive;
+    
+}
+.education-title{
+    text-decoration: underline;
+}
+
+.p{
+    font-style:italic;
+    
+}
